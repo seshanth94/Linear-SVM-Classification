@@ -1,5 +1,3 @@
-# Linear-SVM-Classification
-To classify NBA players into 5 positions on the basketball court: SG (shooting guard), PG (point guard), SF (small forward), PF (power forward), and C (center). The classification is based on the players' per-game average performance in the 2015-2016 season.
 1. The required libraries are imported. Then the data to be trained & tested is imported using pandas.
 2. We are required to predict position of the player and thus this is the class label.
 3. The essential features are taken into a set to improve the accuracy.
